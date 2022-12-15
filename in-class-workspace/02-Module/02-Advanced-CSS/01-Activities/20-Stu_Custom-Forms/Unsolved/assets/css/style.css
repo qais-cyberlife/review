@@ -1,0 +1,178 @@
+body {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.3;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1%;
+  background-color: #13293d;
+  color: #fff;
+}
+
+h1 {
+  font-size: 200%;
+}
+
+h2 {
+  margin: 2% 0;
+  font-size: 250%;
+}
+
+nav ul {
+  display: flex;
+  justify-content: space-between;
+  min-width: 300px;
+}
+
+nav a {
+  color: #b9C6ae;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: #fff;
+}
+
+main {
+  display: flex;
+  flex: 1 1 0;
+  max-width: 1200px;
+  margin: 2% auto;
+}
+
+article {
+  border-bottom: 1px solid #d8a47f;
+}
+
+article p {
+  margin: 2% 0;
+  font-size: 110%;
+}
+
+article ul {
+  margin-left: 5%;
+  font-size: 110%;
+  list-style: circle;
+}
+
+form {
+  max-width: 400px;
+}
+
+form h3 {
+  font-size: 150%;
+}
+
+form p {
+  margin: 3% 0;
+}
+
+label {
+  display: block;
+}
+
+button {
+  padding: 1% 2%;
+  color: #fff;
+  background-color: #13293d;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+/* What does this CSS rule do? */
+/* Add the arrow image to the dropdown menu */
+select {
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  appearance: none;
+  background-image: url("../images/arrow.png");
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: contain;
+}
+
+.text-input {
+  width: 100%;
+  max-width: 100%;
+}
+
+.text-input, select {
+  padding: 1%;
+  outline: none;
+  border: 1.2px solid #b9C6ae;
+}
+
+.text-input:hover, .checkbox:hover, 
+select:hover, button:hover {
+  box-shadow: 0 0 5px #999;
+}
+
+/* What does this pseudo-class mean? */
+/* When we focus on the text input area under the Comment: by clicking on it or by
+using tab, the text container will have a dashed border on the right */
+
+.text-input:focus {
+  border-right-width: 5px;
+}
+
+/* What does this pseudo-class mean? 
+Before we type in the container, i.e. the placeholder text is showing, the container's 
+borders are dashed.
+*/
+.text-input:placeholder-shown {
+  border-style: dashed;
+}
+
+.flex-row {
+  display: flex;
+  align-items: center;
+}
+
+.flex-row select {
+  flex: 1 0 0;
+  margin-left: 2%;
+}
+
+.flex-row input {
+  margin-right: 2%;
+}
+
+/* What does this selector do?
+When the Checkbox is checked the label's font-style is italic and the color is 
+light grey
+*/
+
+.checkbox:checked + label {
+  color: #999999;
+  font-style: italic;
+}
+
+/* What does this selector do? 
+After the box is checked, a (thanks!) note appears 10 pixels to the right 
+of the label
+*/
+.checkbox:checked + label::after {
+  margin-left: 10px;
+  font-size: 90%;
+  content: "(thanks!)";
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  padding: 2%;
+  background-color: #13293d;
+  color: #fff;
+}
+
+@media screen and (max-width: 768px) {
+  header {
+    flex-direction: column;
+  }
+}
