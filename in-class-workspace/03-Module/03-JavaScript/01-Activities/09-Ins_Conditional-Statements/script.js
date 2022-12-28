@@ -1,6 +1,6 @@
 var hungerLevel = 50;
 var isLunchTime = true;
-var lunchBill = 11;
+var lunchBill = 100;
 
 // If statement
 // Evaluates to true so "Hungry" is logged
