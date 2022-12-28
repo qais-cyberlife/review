@@ -31,7 +31,9 @@ console.log(a >= b);
 
 // Logical operators take in two or more expressions and return true or false 
 var expression1 = (b == c);
+// expression1 is true
 var expression2 = (a > b);
+// expression 2 is true
 
 // Evaluates to true if expression1 AND expression2 are both true, otherwise false
 
