@@ -10,5 +10,5 @@ for (let i = 0; i < studentNames.length; i++) {
 studentNames[0] = 'Qusay';
 
 if (studentNames[0] !== 'Qais') {
- console.log(studentNames[0] + " is in class")
+ console.log(studentNames[0] + " is in class!")
 }
