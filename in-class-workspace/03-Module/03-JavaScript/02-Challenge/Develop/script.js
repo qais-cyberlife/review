@@ -29,6 +29,12 @@ if (choice === "a") {
     x = Math.floor(Math.random() * symbols.length);
     pass.push(symbols[x]);
   }
+} else if (choice == "ab") {
+  combined = numbers.concat(capitalCase)
+  for (let i = 0; i < passLength; i++) {
+    x = Math.floor(Math.random() * combined.length);
+    pass.push(combined[x]);
+  }
 }
 
 
