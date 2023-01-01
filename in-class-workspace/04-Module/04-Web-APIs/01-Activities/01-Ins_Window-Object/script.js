@@ -8,4 +8,5 @@ console.log(window.document);
 
 // Logs body of document
 console.log("document.body: ");
-console.log( document.body);
+console.log( document.body.getElementsByClassName("h1-tag"));
+console.log( document.head);
