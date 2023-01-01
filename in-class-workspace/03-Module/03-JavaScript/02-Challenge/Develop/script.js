@@ -7,6 +7,7 @@ var lowerCase = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m"
 var symbols = ['`','~','!','@','#','$','%','^','&','*','(',')','_',',','{','}','[',']',':',';','.','<','>','/','?','\','|',']
 var pass = [];
 
+function generatePassword() {
 // Prompt Object Code
 includeNumbers = window.confirm("Do you want your password to include Numbers?")
 includeLowerCase = window.confirm("Do you want your password to include Capital Letters?")
@@ -32,12 +33,10 @@ var combined = numbers
   var combined = symbols
   // NL
 } else if (includeNumbers == true & includeLowerCase == true & includeUpperCase == false & includeSymbols == false) {
-
   var combined = numbers.concat(lowerCase)
   // NU
 } else if (includeNumbers == true & includeUpperCase == true & includeLowerCase == false & includeSymbols == false) 
 {
-
   var combined = numbers.concat(upperCase)
 // NS
 } else if (includeNumbers == true & includeSymbols == true & includeLowerCase == false & includeUpperCase == false) {
@@ -67,24 +66,25 @@ else if (includeNumbers == true & includeLowerCase == true & includeUpperCase ==
   var combined = numbers.concat(lowerCase, upperCase, symbols)
  }
 
-console.log(combined);
-
 // Generates a Password 
 for (let i = 0; i < passLength; i++) {
   var x = Math.floor(Math.random() * combined.length);
   pass.push(combined[x])
 }
 
+return pass;
+}
 
 
 var generateBtn = document.querySelector("#generate");
+
 // Write password to the #password input
 function writePassword() {
-  var password = generatePassword(); abc
+  var password = generatePassword(); 
+  password.toString();
   var passwordText = document.querySelector("#password");
 
   passwordText.value = password;
-
 }
 
 // Add event listener to generate button
