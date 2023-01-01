@@ -74,18 +74,19 @@ for (let i = 0; i < passLength; i++) {
 
 return pass;
 }
+ 
 
 
 var generateBtn = document.querySelector("#generate");
 
 // Write password to the #password input
 function writePassword() {
-  var password = generatePassword(); 
-  password.toString();
+  var pass = generatePassword(); 
+  var passwordString = pass.join("")
   var passwordText = document.querySelector("#password");
-
-  passwordText.value = password;
+  passwordText.value = passwordString
 }
 
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
+
