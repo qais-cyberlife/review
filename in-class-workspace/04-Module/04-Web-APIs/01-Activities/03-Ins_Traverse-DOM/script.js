@@ -12,6 +12,8 @@ console.log(document.body.children[1].children[0]);
 
 // Accessing element by id
 var firstChildUl = document.getElementById("first-child-ul");
+console.log("Get Element by Id:")
+console.log(firstChildUl);
 
 // Setting style of element
 firstChildUl.style.color = "#e97451";
