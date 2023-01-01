@@ -16,4 +16,4 @@ console.log("Get Element by Id:")
 console.log(firstChildUl);
 
 // Setting style of element
-firstChildUl.style.color = "#e97451";
+firstChildUl.style.color = "red";
