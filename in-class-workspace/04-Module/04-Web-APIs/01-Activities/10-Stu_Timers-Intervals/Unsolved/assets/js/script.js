@@ -13,7 +13,7 @@ function countdown() {
     //
     // YOUR CODE HERE
     //
-    timerEl.textContent = (timeLeft + " seconds remaining.");
+    timerEl.textContent = (timeLeft + " second(s) remaining.");
       timeLeft--;
       if(timeLeft === 0) {
         // Stops execution of action at set interval
@@ -30,7 +30,7 @@ function displayMessage() {
 
   // Uses the `setInterval()` method to call a function to be executed every 1000 milliseconds
   var msgInterval = setInterval(function () {
-    timerEl.textContent = " ";
+    timerEl.textContent = "";
     // If there are no more words left in the message
     if (words[wordCount] === undefined) {
       // Use `clearInterval()` to stop the timer
