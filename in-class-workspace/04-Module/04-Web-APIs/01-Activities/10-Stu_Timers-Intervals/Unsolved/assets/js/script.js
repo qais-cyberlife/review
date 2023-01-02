@@ -13,7 +13,7 @@ function countdown() {
     //
     // YOUR CODE HERE
     //
-    timerEl.textContent = (timeLeft + " seconds left till colorsplosion.");
+    timerEl.textContent = (timeLeft + " seconds remaining.");
       timeLeft--;
       if(timeLeft === 0) {
         // Stops execution of action at set interval
