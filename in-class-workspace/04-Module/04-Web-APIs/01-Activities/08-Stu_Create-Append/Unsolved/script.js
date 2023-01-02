@@ -17,6 +17,11 @@ h1El.textContent = "Welcome to my page";
 kittenEl.textContent = "This is my kitten 🐱.";
 nameEl.textContent = "His name is Jax.";
 favoriteEl.textContent = "My favorite foods are:";
+// Add text for list items
+li1.textContent ="Apples 🍎";
+li2.textContent ="Pizza 🍕";
+li3.textContent ="Dumpling 🥟";
+li4.textContent ="Cupcakes 🧁";
 
 body.appendChild(h1El);
 body.appendChild(infoEl);
@@ -27,6 +32,11 @@ body.appendChild(favoriteEl);
 favoriteEl.appendChild(listEl);
 // Append ordered list 
 favoriteEl.appendChild(listEl);
+// Appends the list items to ol
+listEl.appendChild(li1);
+listEl.appendChild(li2);
+listEl.appendChild(li3);
+listEl.appendChild(li4);
 
 h1El.setAttribute("style", "margin:auto; width:50%; text-align:center;");
 infoEl.setAttribute("style", "margin:auto; width:50%; text-align:center;");
@@ -39,15 +49,8 @@ favoriteEl.setAttribute("style", "font-size:20px;");
 
 listEl.setAttribute("style", "background-color: #333333; padding:20px;");
 
-listEl.appendChild(li1);
-listEl.appendChild(li2);
-listEl.appendChild(li3);
-listEl.appendChild(li4);
 
-li1.textContent ="Apples 🍎";
-li2.textContent ="Pizza 🍕";
-li3.textContent ="Dumpling 🥟";
-li4.textContent ="Cupcakes 🧁";
+
 
 li1.setAttribute("style", "color: white; background-color: #7777; margin-left:35px;")
 li2.setAttribute("style", "color: white; background-color: #8888; margin-left:35px;")
