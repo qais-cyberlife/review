@@ -2,27 +2,27 @@ var outer = document.querySelector(".outer-div");
 var inner = document.querySelector(".inner-div");
 var button = document.querySelector(".button");
 
-function changeBlue(event) {
-  // event.stopPropagation();
-  event.currentTarget.setAttribute(
-    "style",
-    "background-color: blue"
-  );
-}
-
 function changePurple(event) {
-  // event.stopPropagation();
+  event.stopPropagation();
   event.currentTarget.setAttribute(
     "style",
-    "background-color: #601A4A"
+    "background-color: purple"
   );
 }
 
 function changeOrange(event) {
-  // event.stopPropagation();
+  event.stopPropagation();
   event.currentTarget.setAttribute(
     "style",
-    "background-color: #EE442F; color: white;"
+    "background-color: orange; color: white;"
+  );
+}
+
+function changeBlue(event) {
+  event.stopPropagation();
+  event.currentTarget.setAttribute(
+    "style",
+    "background-color: blue"
   );
 }
 
