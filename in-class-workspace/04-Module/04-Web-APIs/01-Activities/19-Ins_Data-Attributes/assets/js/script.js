@@ -12,6 +12,7 @@ imageContainer.addEventListener("click", function(event) {
     if (state === "still") {
       // Change the data-state attribute's value
       // There are two different ways this attribute can be set
+      // 16: In other words elemented clicked, set that data of state to be animate
       element.dataset.state = "animate";
       element.setAttribute("data-state", "animate");
 
