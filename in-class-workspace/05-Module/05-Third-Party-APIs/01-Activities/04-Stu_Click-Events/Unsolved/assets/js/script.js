@@ -1,4 +1,4 @@
-var passwordBtnEl = $('.password-btn');
+var passwordBtnEl = $('#password-btn');
 var passwordDisplayEl = $('#password-display');
 
 // Returns a random character that includes alphanumeric and special character values
