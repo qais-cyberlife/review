@@ -32,7 +32,7 @@ function handleFormSubmit(event) {
 shoppingListEl.on('click', '.delete-item-btn', function (event) {
   shoppingListItemEl = $(event.target);
 
-  shoppingListItemEl.parent().hide();
+  shoppingListItemEl.parent('li').remove();
 
   
 })
