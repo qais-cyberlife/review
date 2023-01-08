@@ -16,7 +16,7 @@ function handleFormSubmit(event) {
   // Select all checked options
   var checkedEl = $('input:checked');
   var selected = [];
-
+      
   // Loop through checked options to store in array
   $.each(checkedEl, function () {
     selected.push($(this).val());
