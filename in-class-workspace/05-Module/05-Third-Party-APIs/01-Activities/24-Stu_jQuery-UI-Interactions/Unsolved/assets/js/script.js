@@ -66,3 +66,7 @@ $(function () {
 
 // Add interaction here
 //
+listEl.addEventlister('click', function(event) {
+  event.target.draggable();
+  event.target.droppable();
+}) ;
