@@ -32,5 +32,38 @@ formEl.on('submit', handleFormSubmit);
 // Add Autocomplete widget here
 //
 
+$( function() {
+  var skillNames = [
+    "ActionScript",
+    "AppleScript",
+    "Asp",
+    "BASIC",
+    "C",
+    "C++",
+    "Clojure",
+    "COBOL",
+    "ColdFusion",
+    "Erlang",
+    "Fortran",
+    "Groovy",
+    "Haskell",
+    "Java",
+    "JavaScript",
+    "Lisp",
+    "Perl",
+    "PHP",
+    "Python",
+    "Ruby",
+    "Scala",
+    "Scheme"
+  ];
+  $("#skill-name").autocomplete({
+    source: skillNames
+  });
+} );
+
 // Add Datepicker widget here
 //
+$( function() {
+  $( "#datepicker" ).datepicker();
+} );
