@@ -13,7 +13,7 @@
 .custom-navbar a {
   font-size: 1.5rem;
   color: var(--lightseablue);
-}
+} 
 
 .custom-navbar a:hover {
   color: var(--light);
