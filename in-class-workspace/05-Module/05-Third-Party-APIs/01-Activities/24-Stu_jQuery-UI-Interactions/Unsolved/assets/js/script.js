@@ -23,6 +23,7 @@ var handleFormSubmit = function (event) {
 
   printSkills(nameInput, dateInput);
 
+  // resets form
   nameInputEl.val('');
   dateInputEl.val('');
 };
@@ -64,9 +65,10 @@ $(function () {
   });
 });
 
-// Add interaction here
-//
-listEl.addEventlister('click', function(event) {
-  event.target.draggable();
-  event.target.droppable();
-}) ;
+// Sortable interaction
+$(function () {
+  $('#skills-list').sortable({
+    placeholder: 'ui-state-highlight',
+  });
+  $('#skills-list').disableSelection();
+});
