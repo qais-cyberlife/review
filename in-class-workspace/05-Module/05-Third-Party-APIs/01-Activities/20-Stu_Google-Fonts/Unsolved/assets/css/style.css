@@ -7,8 +7,9 @@
 }
 
 body{
-  font-family: 'Roboto';
+  font-family: 'Roboto', sans-serif;
 }
+
 ::selection {
   color: var(--brown);
   background-color: var(--light);
