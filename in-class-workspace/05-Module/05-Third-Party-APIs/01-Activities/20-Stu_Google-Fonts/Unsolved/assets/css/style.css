@@ -6,6 +6,9 @@
   --light: #fffaf7;
 }
 
+body{
+  font-family: 'Roboto';
+}
 ::selection {
   color: var(--brown);
   background-color: var(--light);
