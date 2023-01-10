@@ -22,68 +22,81 @@
     <h3>Jan 10, 2023 00:00:00 am</h3>
   </header>
 
-  <div class="main">
-    <div class="instructions">
-      <!-- Bootstrap Card -->
-      <div class="card bg-light mb-3" style="max-width: 18rem;">
+  <main class="container-fluid m15">
+    <div class="row">
+      <section class="col-md-3 col-lg-4">
+        <div class="instructions">
+          <!-- Bootstrap Card -->
+          <div class="card bg-light mb-3" style="max-width: 18rem;">
 
-        <div class="card-body">
-          <h5 class="card-title">Instructions</h5>
-          <p class="card-text">Click the button below to open a form and provide information for the following:</p>
-        </div>
-     
-        <ul class="list-group list-group-flush">
-          <li class="list-group-item">Project Name</li>
-          <li class="list-group-item">Project Type</li>
-          <li class="list-group-item">Due Date</li>
-       
-          <li class="list-group-item">Hourly Rate</li>
-        </ul>
-        <div class="card-footer">
-          <button>Add Project</button>
-        </div>
-      </div>
-    </div>
+            <div class="card-body">
+              <h5 class="card-title">Instructions</h5>
+              <p class="card-text">Click the button below to open a form and provide information for the following:</p>
+            </div>
 
-    <div class="table">
-      <!-- Bring in the Bootstrap Table -->
-      <table class="table table-bordered table-dark">
-        <thead>
-          <tr>
-            <th scope="col">Project Name</th>
-            <th scope="col">Project Type</th>
-            <th scope="col">Hourly Rate ($)</th>
-            <th scope="col">Due Date</th>
-            <th scope="col">Potential Total Earnings ($)</th>
-            <th scope="col"> </th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>Name 1</td>
-            <td>Type 1</td>
-            <td>$XX</td>
-            <td>MM-DD-YYYY</td>
-            <td>$XX</td>
-          </tr>
-          <tr>
-            <td>Name 1</td>
-            <td>Type 1</td>
-            <td>$XX</td>
-            <td>MM-DD-YYYY</td>
-            <td>$XX</td>
-          </tr>
-          <tr>
-            <td>Name 1</td>
-            <td>Type 1</td>
-            <td>$XX</td>
-            <td>MM-DD-YYYY</td>
-            <td>$XX</td>
-          </tr>
-        </tbody>
-      </table>
+            <ul class="list-group list-group-flush">
+              <li class="list-group-item">Project Name</li>
+              <li class="list-group-item">Project Type</li>
+              <li class="list-group-item">Due Date</li>
+
+              <li class="list-group-item">Hourly Rate</li>
+            </ul>
+
+            <div class="card-footer">
+              <button>Add Project</button>
+            </div>
+
+          </div>
+        </div>
+      </section>
+
+      <section class="col-md-9 col-lg-8">
+
+        <div class="table">
+          <!-- Bring in the Bootstrap Table -->
+          <table class="table table-bordered table-dark">
+            <thead>
+              <tr class="custom-table-header">
+                <th scope="col">Project Name</th>
+                <th scope="col">Project Type</th>
+                <th scope="col">Hourly Rate ($)</th>
+                <th scope="col">Due Date</th>
+                <th scope="col">Potential Total Earnings ($)</th>
+                <th scope="col"> </th>
+              </tr>
+            </thead>
+
+            <tbody>
+              <tr>
+                <td>Name 1</td>
+                <td>Type 1</td>
+                <td>$XX</td>
+                <td>MM-DD-YYYY</td>
+                <td>$XX</td>
+              </tr>
+
+              <tr>
+                <td>Name 1</td>
+                <td>Type 1</td>
+                <td>$XX</td>
+                <td>MM-DD-YYYY</td>
+                <td>$XX</td>
+              </tr>
+
+              <tr>
+                <td>Name 1</td>
+                <td>Type 1</td>
+                <td>$XX</td>
+                <td>MM-DD-YYYY</td>
+                <td>$XX</td>
+              </tr>
+
+            </tbody>
+          </table>
+        </div>
+      </section>
     </div>
-  </div>
+  </main>
 
   <!-- link to jQuery Library -->
   <script src="https://code.jquery.com/jquery-3.6.3.min.js"></script>

@@ -1,0 +1,50 @@
+:root {
+  --blue: #2980b9;
+  --lightblue: #3498db;
+  --light: #ecf0f1;
+  --darkblue: #2c3e50;
+  --red: #e74c3c;
+}
+
+
+body {
+  /* font-family: 'Titillium Web', sans-serif; */
+  font-size: 16px;
+
+}
+
+header{
+  background-color: var(--darkblue);
+  color: var(--light);
+  padding: 15px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700;
+  text-align: center;
+}
+
+.card-body, .card-footer
+{
+  background-color: var(--darkblue);
+  color: var(--light);
+  text-align: center;
+}
+
+.card-footer button {
+  background-color: var(--light);
+  color: var(--blue);
+  border-radius: 10px;
+  width: 150px;
+  height: 40px;
+}
+
+.custom-table-header > th {
+  background-color: var(--red);
+}
+
