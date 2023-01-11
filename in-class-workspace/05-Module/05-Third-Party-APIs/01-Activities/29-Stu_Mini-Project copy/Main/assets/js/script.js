@@ -11,8 +11,10 @@ var dueDateInputEl = $('#due-date-input');
 
 
 // handle displaying the time
+function displayTime() {
 var today = moment();
-timeDisplayEl.text(today.format("MMMM DDDo YYYY hh:mm:ss A z"))
+timeDisplayEl.text(today.format("MMMM DDDo YYYY hh:mm:ss A"))
+};
 // handle printing project data to the page
 
 // You can also chain methods onto new lines to keep code clean
@@ -21,4 +23,6 @@ timeDisplayEl.text(today.format("MMMM DDDo YYYY hh:mm:ss A z"))
 
 // handle project form submission
 dueDateInputEl.datepicker({ minDate: 1 });
-$('#project-modal').modal(options)
+setInterval(displayTime, 1000);
+$('#project-modal').modal('hide');
+
