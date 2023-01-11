@@ -11,7 +11,8 @@ var dueDateInputEl = $('#due-date-input');
 
 
 // handle displaying the time
-
+var today = moment();
+timeDisplayEl.text(today.format("MMMM DDDo YYYY hh:mm:ss A z"))
 // handle printing project data to the page
 
 // You can also chain methods onto new lines to keep code clean
