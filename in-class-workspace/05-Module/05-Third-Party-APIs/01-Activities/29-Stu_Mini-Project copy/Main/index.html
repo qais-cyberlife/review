@@ -20,7 +20,7 @@
     <h1>Project Tracker</h1>
     <h2>Current Time & Date</h2>
     <!-- Use moment.js to get current time -->
-    <h3>Jan 10, 2023 00:00:00 am</h3>
+    <h3 id="time-display">Jan 10, 2023 00:00:00 am</h3>
   </header>
 
   <main class="container-fluid m15">
@@ -45,7 +45,7 @@
             </ul>
 
             <div class="card-footer">
-              <button>Add Project</button>
+              <button type="button" data-toggle="modal" data-target="#project-modal">Add Project</button>
             </div>
 
           </div>
@@ -67,7 +67,7 @@
               </tr>
             </thead>
 
-            <tbody>
+            <tbody id="project-display">
               <tr>
                 <td>Name 1</td>
                 <td>Type 1</td>
