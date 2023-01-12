@@ -3,6 +3,7 @@ var timeDisplayEl = $('#time-display');
 var projectDisplayEl = $('#project-display');
 var projectModalEl = $('#project-modal');
 var projectFormEl = $('#project-form');
+// Modal Input Variables
 var projectNameInputEl = $('#project-name-input');
 var projectTypeInputEl = $('#project-type-input');
 var hourlyRateInputEl = $('#hourly-rate-input');
@@ -87,3 +88,4 @@ projectDisplayEl.on('click', '.delete-project-btn', handleDeleteProject);
 dueDateInputEl.datepicker({ minDate: 1 });
 
 setInterval(displayTime, 1000);
+$('#project-modal').modal('hide');
