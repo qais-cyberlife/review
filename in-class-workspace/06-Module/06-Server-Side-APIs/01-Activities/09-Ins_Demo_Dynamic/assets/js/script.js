@@ -13,7 +13,7 @@ function getApi() {
       for (var i = 0; i < data.length; i++) {
         var userName = document.createElement('h3');
         var issueTitle = document.createElement('p');
-        userName.textContent = data[i].user.login;
+        userName.textContent = data[i].login;
         issueTitle.textContent = data[i].title;
         issueContainer.append(userName);
         issueContainer.append(issueTitle);
