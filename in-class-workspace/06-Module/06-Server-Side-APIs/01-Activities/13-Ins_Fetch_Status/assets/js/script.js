@@ -8,6 +8,8 @@ function getApi(requestUrl) {
       console.log(response);
       if (response.status === 200) {
         responseText.textContent = response.status;
+      } else if (response.status === 404) {
+        responseText.textContent = response.status;
       }
       return response.json();
   });
