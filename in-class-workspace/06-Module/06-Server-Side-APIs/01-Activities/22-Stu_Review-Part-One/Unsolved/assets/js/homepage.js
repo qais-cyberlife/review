@@ -22,10 +22,12 @@ var formSubmitHandler = function (event) {
 var buttonClickHandler = function (event) {
   // What is `event.target` referencing?
   // TODO: Write your answer here
+  // The button the was clicked
   var language = event.target.getAttribute('data-language');
 
   // Why is this `if` block in place?
   // TODO: Write your answer here
+  // 
   if (language) {
     getFeaturedRepos(language);
 
