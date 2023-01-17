@@ -5,6 +5,7 @@ var limitWarningEl = document.querySelector('#limit-warning');
 var getRepoName = function () {
   // Where is this value coming from?
   // TODO: Write your answer here
+  // 
   var queryString = document.location.search;
   var repoName = queryString.split('=')[1];
 
@@ -73,6 +74,7 @@ var displayIssues = function (issues) {
 
 // What does this function do?
 // TODO: Write your answer here
+// Is there is more that 30 issues it provides the clietn with a link to Github as the limit is 30 repos only
 var displayWarning = function (repo) {
   limitWarningEl.textContent = 'To see more than 30 issues, visit ';
 
@@ -83,6 +85,7 @@ var displayWarning = function (repo) {
 
   // Where does this appear on the page?
   // TODO: Write your answer here
+  // at the bottom of the single-repo page
   limitWarningEl.appendChild(linkEl);
 };
 
