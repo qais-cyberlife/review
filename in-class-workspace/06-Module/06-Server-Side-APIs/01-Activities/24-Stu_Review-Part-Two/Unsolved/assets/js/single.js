@@ -5,7 +5,7 @@ var limitWarningEl = document.querySelector('#limit-warning');
 var getRepoName = function () {
   // Where is this value coming from?
   // TODO: Write your answer here
-  // 
+  // coming from the url search in the browser it gets the uri after '?'
   var queryString = document.location.search;
   var repoName = queryString.split('=')[1];
 
@@ -16,6 +16,7 @@ var getRepoName = function () {
   } else {
     // Under what condition will this run?
     // TODO: Write your answer here
+    // will return to the homepage is there is nothing in the repo page
     document.location.replace('./index.html');
   }
 };
@@ -30,6 +31,7 @@ var getRepoIssues = function (repo) {
 
         // What is this checking for? Under what condition will this be `true`?
         // TODO: Write your answer here
+        // Looks to see if there is more than 30 repos. 
         if (response.headers.get('Link')) {
           displayWarning(repo);
         }
@@ -43,6 +45,7 @@ var getRepoIssues = function (repo) {
 var displayIssues = function (issues) {
   // Is there a difference between this and `!issues.length`?
   // TODO: Write your answer here
+  // This check for strict equality but it works because JS considers 0 to be falsey
   if (issues.length === 0) {
     issueContainerEl.textContent = 'This repo has no open issues!';
     return;
