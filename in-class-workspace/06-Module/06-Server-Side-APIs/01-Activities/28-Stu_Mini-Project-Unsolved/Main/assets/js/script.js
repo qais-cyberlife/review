@@ -21,12 +21,12 @@ function handleFormSubmit(event) {
 
   } else if (format) {
   redirectUrl = "./search-results.html?q=" + search + "&format=" + format;
-  // document.location.replace(redirectUrl);
+  document.location.replace(redirectUrl);
   // console.log(format) Successful
   getData(search, format)
 }else {
   redirectUrl = "./search-results.html?q=" + search + "&format=";
-  // document.location.replace(redirectUrl);
+  document.location.replace(redirectUrl);
   getData(search, "")
   // console.log(format) Successful
 }
