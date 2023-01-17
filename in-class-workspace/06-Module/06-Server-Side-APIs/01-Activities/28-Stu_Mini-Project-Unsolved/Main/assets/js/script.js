@@ -1,19 +1,32 @@
-var searchFormEl = document.querySelector('#search-form');
+// Selects the main DOM elements
+var searchFormEl = $('#search-form')
+var searchInputEl = $('#search-input');
+var formatInputEl = $('#format-input');
 
-function handleSearchFormSubmit(event) {
+// console.log(formEl);
+// console.log(searchInputEl);
+// console.log(formatInputEl);
+
+function handleFormSubmit(event) {
   event.preventDefault();
 
-  var searchInputVal = document.querySelector('#search-input').value;
-  var formatInputVal = document.querySelector('#format-input').value;
+  var search = searchInputEl.val();
+  // console.log(search)
 
-  if (!searchInputVal) {
-    console.error('You need a search input value!');
-    return;
-  }
+  var format = formatInputEl.val();
+  // console.log(format)
 
-  var queryString = './search-results.html?q=' + searchInputVal + '&format=' + formatInputVal;
+  if (format) {
+    redirectUrl = "./search-results.html?q=" + search + "&format=" + format;
+  document.location.replace(redirectUrl);
+  } else if (!search) {
+  window.alert("Please enter a search query! :)")
 
-  location.assign(queryString);
+}else {
+  redirectUrl = "./search-results.html?q=" + search + "&format=";
+  document.location.replace(redirectUrl);
+}
 }
 
-searchFormEl.addEventListener('submit', handleSearchFormSubmit);
+
+searchFormEl.on('submit', handleFormSubmit);
