@@ -34,11 +34,24 @@ function handleFormSubmit(event) {
 
 var getData = function (search, format){
   if (format) {
-    var apiUrl = 'https://www.loc.gov/' + format + '/?q=' + search + '&fo=json';
+    var apiUrl = 'https://www.loc.gov/' + format + '/?q=' + search + '&fo=json&c=1';
   } else {
-  var apiUrl = 'https://www.loc.gov/search/?q=' + search + '&fo=json';
+  var apiUrl = 'https://www.loc.gov/search/?q=' + search + '&fo=json&c=1';
 }
 // console.log(apiUrl) Successful
+
+fetch(apiUrl) 
+.then(function (response) {
+  if (response.ok) {
+    console.log(response);
+    response.json().then(function (data) {
+      console.log(data);
+      // displayRepos(data, user);
+    });
+  } else {
+    alert('Error:' + response.statusText);
+  }
+})
 }
 
 searchFormEl.on('submit', handleFormSubmit);

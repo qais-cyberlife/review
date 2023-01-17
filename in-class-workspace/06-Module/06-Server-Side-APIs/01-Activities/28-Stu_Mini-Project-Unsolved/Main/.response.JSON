@@ -1,0 +1,1544 @@
+{
+    "breadcrumbs": [
+        {
+            "Library of Congress": "https://www.loc.gov"
+        },
+        {
+            "Photos, Prints, Drawings": "https://www.loc.gov/photos/"
+        },
+        {
+            "Search": "https://www.loc.gov/photos/?c=1&fo=json&q=baseball"
+        }
+    ],
+    "content": {
+        "active": true,
+        "link": "https://www.loc.gov/photos/",
+        "pagination": "1 of 1",
+        "results": [
+            {
+                "access_restricted": true,
+                "aka": [
+                    "https://www.loc.gov/pictures/item/2015648896/",
+                    "http://www.loc.gov/item/2015648896/",
+                    "http://www.loc.gov/pictures/item/2015648896/",
+                    "https://www.loc.gov/pictures/collection/cph/item/2015648896/",
+                    "http://www.loc.gov/pictures/collection/cph/item/2015648896/",
+                    "http://www.loc.gov/resource/ppmsca.39845/",
+                    "http://hdl.loc.gov/loc.pnp/ppmsca.39845",
+                    "http://lccn.loc.gov/2015648896"
+                ],
+                "campaigns": [],
+                "contributor": [
+                    "office of charles and ray eames",
+                    "work of charles and ray eames (library of congress)"
+                ],
+                "date": "1964",
+                "dates": [
+                    "1964-01-01T00:00:00Z"
+                ],
+                "description": [
+                    "1 photograph : Kodachrome color transparency ; film width 35 mm (slide format) | Photograph showing a baseball, likely for use in the IBM multiscreen presentation at the 1964 New York World's Fair."
+                ],
+                "digitized": true,
+                "extract_timestamp": "2021-08-27T19:13:42.248Z",
+                "group": [
+                    "cph",
+                    "catalog",
+                    "miscellaneous-items-high-demand",
+                    "main-catalog"
+                ],
+                "hassegments": false,
+                "id": "http://www.loc.gov/item/2015648896/",
+                "image_url": [
+                    "https://tile.loc.gov/storage-services/service/pnp/ppmsca/39800/39845_150px.jpg"
+                ],
+                "index": 1,
+                "item": {
+                    "call_number": "LC-E14-NYF067- 023 [item] [P&P]",
+                    "contributor_names": [
+                        "Work of Charles and Ray Eames (Library of Congress),  "
+                    ],
+                    "contributors": [
+                        "Office of Charles and Ray Eames, photographer.",
+                        "Work of Charles and Ray Eames (Library of Congress)"
+                    ],
+                    "control_number": "2015648896",
+                    "created": "2016-04-20T07:22:52Z",
+                    "created_published": "[1964] ([film processed] Mar 64)",
+                    "created_published_date": "[1964]",
+                    "creators": [
+                        {
+                            "link": "https://www.loc.gov/pictures/related/?fi=name&q=Office%20of%20Charles%20and%20Ray%20Eames&co=cph",
+                            "role": "photographer",
+                            "title": "Office of Charles and Ray Eames"
+                        },
+                        {
+                            "link": "https://www.loc.gov/pictures/related/?fi=name&q=Work%20of%20Charles%20and%20Ray%20Eames%20%28Library%20of%20Congress%29&co=cph",
+                            "role": "",
+                            "title": "Work of Charles and Ray Eames (Library of Congress)"
+                        }
+                    ],
+                    "date": "[1964]",
+                    "digital_id": [
+                        "ppmsca 39845 //hdl.loc.gov/loc.pnp/ppmsca.39845"
+                    ],
+                    "format": [
+                        "still image"
+                    ],
+                    "formats": [
+                        {
+                            "link": "https://www.loc.gov/pictures/related/?fi=format&q=Slides--Color--1960-1970.&co=cph",
+                            "title": "Slides--Color--1960-1970."
+                        }
+                    ],
+                    "genre": [
+                        "Slides--Color--1960-1970"
+                    ],
+                    "id": "2015648896",
+                    "language": [
+                        "eng"
+                    ],
+                    "link": "https://www.loc.gov/pictures/item/2015648896/",
+                    "marc": "https://www.loc.gov/pictures/item/2015648896/marc/",
+                    "medium": [
+                        "1 photograph : Kodachrome color transparency ; film width 35 mm (slide format)"
+                    ],
+                    "medium_brief": "1 photograph :",
+                    "mediums": [
+                        "1 photograph : Kodachrome color transparency ; film width 35 mm (slide format)"
+                    ],
+                    "modified": "2016-04-20T07:22:52Z",
+                    "notes": [
+                        "Title devised by Library staff.",
+                        "Date from stamp on slide.",
+                        "Slide from the Eames Office IBM New York Fair (\"NYF\") slide series.",
+                        "Forms part of: \"The Work of Charles and Ray Eames.\"",
+                        "Gift; Charles and Ray Eames; 1989; (DLC/PP-1989:150)"
+                    ],
+                    "other_control_numbers": [
+                        "18739615"
+                    ],
+                    "part_of": "Office of Charles and Ray Eames. Eames Collection (Library of Congress)",
+                    "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+                    "reproduction_number": "LC-DIG-ppmsca-39845 (digital file from original slide)",
+                    "resource_links": [
+                        "//hdl.loc.gov/loc.pnp/ppmsca.39845"
+                    ],
+                    "rights_advisory": "Publication may be restricted. For information see \"The Work of Charles and Ray Eames,\" https://www.loc.gov/rr/print/res/069_eame.html",
+                    "rights_information": "Publication may be restricted. For information see \"The Work of Charles and Ray Eames,\" https://www.loc.gov/rr/print/res/069_eame.html",
+                    "service_low": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/39800/39845_150px.jpg",
+                    "service_medium": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/39800/39845r.jpg",
+                    "sort_date": "1964",
+                    "source_created": "2015-08-11T00:00:00Z",
+                    "source_modified": "2015-08-12T15:35:56Z",
+                    "subject_headings": [
+                        "Baseballs--1960-1970."
+                    ],
+                    "subjects": [
+                        "Baseballs--1960-1970"
+                    ],
+                    "summary": "Photograph showing a baseball, likely for use in the IBM multiscreen presentation at the 1964 New York World's Fair.",
+                    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/39800/39845_150px.jpg",
+                    "title": "[Baseball]"
+                },
+                "language": [
+                    "english"
+                ],
+                "mime_type": [
+                    "image/gif",
+                    "image/jpg",
+                    "image/tif",
+                    "image/jpeg"
+                ],
+                "number": [
+                    "http://www.loc.gov/item/18739615"
+                ],
+                "number_former_id": [
+                    "http://www.loc.gov/item/18739615"
+                ],
+                "online_format": [
+                    "image"
+                ],
+                "original_format": [
+                    "photo, print, drawing"
+                ],
+                "other_title": [],
+                "partof": [
+                    "catalog",
+                    "prints and photographs division"
+                ],
+                "related": {
+                    "neighbors": "https://www.loc.gov/pictures/related/?&co=cph&pk=2015648896&st=gallery&sb=call_number#focus"
+                },
+                "reproductions": "<p>If an image is displaying, you can download it yourself. (Some images \ndisplay only as thumbnails outside the Library of Congress because of rights \nconsiderations, but you have access to larger size images on site.)\n</p>\n\n<p>  \nAlternatively, you can purchase copies of various types through Library \nof Congress Duplication Services</a>.\n</p>\n\n<p> \n<ol>\n<p>\n<li><strong>If a digital image is displaying:</strong> The qualities of the digital image \npartially depend on whether it was made from the original or an \nintermediate such as a copy negative or transparency. If the Reproduction \nNumber field above includes a reproduction number that starts with \nLC-DIG..., then there is a digital image that was made directly \nfrom the original and is of sufficient resolution for most publication\n purposes.\n</li> \n</p>\n\n<li><strong>If there is information listed in the Reproduction Number field above:</strong> \nYou can use the reproduction number to purchase a copy from Duplication \nServices.  It will be made from the source listed in the parentheses after\n the number.  \n<p> \nIf only black-and-white (&quot;b&w&quot;) sources are listed and you \n desire a copy showing color or tint (assuming the original has any), \n you can generally purchase a quality copy of the original in color by \n citing the Call Number listed above and including the catalog record \n (&quot;About This Item&quot;) with your request.\n </p>\n</li>\n\n<li><strong>If there is no information listed in the Reproduction Number field \nabove:</strong> You can generally purchase a quality copy through \nDuplication Services. Cite the Call Number listed above and include the catalog record (&quot;About This Item&quot;) with \n your request.\n</li>\n</ol>\n</p>\n\n<p> \nPrice lists, contact information, and order forms are available on the\n <a href=\"//www.loc.gov/duplicationservices/\">Duplication Services Web site</a>.  \n</p>\n\n\n\n",
+                "resources": [
+                    {
+                        "caption": "digital file from original slide",
+                        "files": 1,
+                        "image": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/39800/39845_150px.jpg",
+                        "url": "https://www.loc.gov/resource/ppmsca.39845/"
+                    }
+                ],
+                "shelf_id": "LC-E14-NYF067- 023 [item] [P&P]",
+                "site": [
+                    "pictures",
+                    "catalog"
+                ],
+                "subject": [
+                    "slides",
+                    "color",
+                    "baseballs"
+                ],
+                "timestamp": "2021-08-28T13:36:34.918Z",
+                "title": "[Baseball]",
+                "unrestricted": true,
+                "url": "https://www.loc.gov/item/2015648896/"
+            }
+        ],
+        "slug": "",
+        "title": "Search Photos, Prints, Drawings",
+        "url": "https://www.loc.gov/photos/"
+    },
+    "content_is_post": false,
+    "context": "original-format:photo, print, drawing",
+    "description": "Pictorial materials are found in many units of the Library of Congress. The Prints & Photographs Division, alone, holds more than 15 million items, including photographs, prints, drawings and architectural and engineering designs; more than 1 million of the items are  available in digital form.",
+    "expert_resources": [
+        {
+            "title": "Collections with Photos",
+            "url": "/photos/collections/"
+        }
+    ],
+    "facet_trail": [
+        {
+            "facet": "Original Format",
+            "field": "original-format",
+            "superset": "https://www.loc.gov/search/?c=1&fo=json&q=baseball",
+            "value": "photo, print, drawing"
+        },
+        {
+            "facet": "searchTerms",
+            "field": "searchTerms",
+            "superset": "https://www.loc.gov/photos/?c=1&fo=json",
+            "value": "baseball"
+        },
+        {
+            "facet": "Available Online",
+            "field": "digitized",
+            "superset": "https://www.loc.gov/photos/?all=true&c=1&fo=json&q=baseball",
+            "value": "digitized"
+        }
+    ],
+    "facet_views": {
+        "calendar": "https://www.loc.gov/photos/?c=1&fo=json&fs=calendar&q=baseball",
+        "chart": "https://www.loc.gov/photos/?c=1&fo=json&fs=chart&q=baseball",
+        "current": "list",
+        "list": "https://www.loc.gov/photos/?c=1&fo=json&q=baseball"
+    },
+    "facets": [
+        {
+            "filters": [
+                {
+                    "count": 7601,
+                    "not": null,
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fo=json&q=baseball",
+                    "title": "true"
+                },
+                {
+                    "count": 770,
+                    "not": null,
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?all=true&c=1&fo=json&q=baseball",
+                    "title": "false"
+                }
+            ],
+            "title": "Available Online",
+            "type": "digitized"
+        },
+        {
+            "filters": [
+                {
+                    "count": 7601,
+                    "not": null,
+                    "off": "https://www.loc.gov/search/?c=1&fo=json&q=baseball",
+                    "on": "https://www.loc.gov/photos/?c=1&fo=json&q=baseball",
+                    "title": "photo, print, drawing"
+                },
+                {
+                    "count": 229,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=original-format!:web+page&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=original-format:web+page&fo=json&q=baseball",
+                    "title": "web page"
+                },
+                {
+                    "count": 123,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=original-format!:manuscript/mixed+material&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=original-format:manuscript/mixed+material&fo=json&q=baseball",
+                    "title": "manuscript/mixed material"
+                },
+                {
+                    "count": 119,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=original-format!:personal+narrative&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=original-format:personal+narrative&fo=json&q=baseball",
+                    "title": "personal narrative"
+                },
+                {
+                    "count": 101,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=original-format!:film,+video&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=original-format:film,+video&fo=json&q=baseball",
+                    "title": "film, video"
+                },
+                {
+                    "count": 26,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=original-format!:software,+e-resource&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=original-format:software,+e-resource&fo=json&q=baseball",
+                    "title": "software, e-resource"
+                },
+                {
+                    "count": 19,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=original-format!:sound+recording&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=original-format:sound+recording&fo=json&q=baseball",
+                    "title": "sound recording"
+                },
+                {
+                    "count": 11,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=original-format!:book&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=original-format:book&fo=json&q=baseball",
+                    "title": "book"
+                },
+                {
+                    "count": 8,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=original-format!:3d+object&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=original-format:3d+object&fo=json&q=baseball",
+                    "title": "3d object"
+                },
+                {
+                    "count": 1,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=original-format!:notated+music&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=original-format:notated+music&fo=json&q=baseball",
+                    "title": "notated music"
+                }
+            ],
+            "title": "Original Format",
+            "type": "original-format"
+        },
+        {
+            "filters": [
+                {
+                    "count": 7327,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=online-format!:image&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=online-format:image&fo=json&q=baseball",
+                    "title": "image"
+                },
+                {
+                    "count": 232,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=online-format!:web+page&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=online-format:web+page&fo=json&q=baseball",
+                    "title": "web page"
+                },
+                {
+                    "count": 108,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=online-format!:online+text&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=online-format:online+text&fo=json&q=baseball",
+                    "title": "online text"
+                },
+                {
+                    "count": 100,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=online-format!:video&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=online-format:video&fo=json&q=baseball",
+                    "title": "video"
+                },
+                {
+                    "count": 44,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=online-format!:pdf&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=online-format:pdf&fo=json&q=baseball",
+                    "title": "pdf"
+                },
+                {
+                    "count": 12,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=online-format!:audio&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=online-format:audio&fo=json&q=baseball",
+                    "title": "audio"
+                },
+                {
+                    "count": 4,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=online-format!:compressed+data&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=online-format:compressed+data&fo=json&q=baseball",
+                    "title": "compressed data"
+                }
+            ],
+            "title": "Online Format",
+            "type": "online-format"
+        },
+        {
+            "filters": [
+                {
+                    "count": 371,
+                    "not": null,
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&dates=2000/2099&fo=json&q=baseball",
+                    "term": "2000-01-01T00:00:00Z",
+                    "title": "2000 to 2099"
+                },
+                {
+                    "count": 6095,
+                    "not": null,
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&dates=1900/1999&fo=json&q=baseball",
+                    "term": "1900-01-01T00:00:00Z",
+                    "title": "1900 to 1999"
+                },
+                {
+                    "count": 925,
+                    "not": null,
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&dates=1800/1899&fo=json&q=baseball",
+                    "term": "1800-01-01T00:00:00Z",
+                    "title": "1800 to 1899"
+                },
+                {
+                    "count": 9,
+                    "not": null,
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&dates=1700/1799&fo=json&q=baseball",
+                    "term": "1700-01-01T00:00:00Z",
+                    "title": "1700 to 1799"
+                },
+                {
+                    "count": 5,
+                    "not": null,
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&dates=1500/1599&fo=json&q=baseball",
+                    "term": "1500-01-01T00:00:00Z",
+                    "title": "1500 to 1599"
+                }
+            ],
+            "title": "Date",
+            "type": "dates"
+        },
+        {
+            "filters": [
+                {
+                    "count": 1262,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=location!:united+states&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=location:united+states&fo=json&q=baseball",
+                    "title": "united states"
+                },
+                {
+                    "count": 272,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=location!:washington+d.c.&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=location:washington+d.c.&fo=json&q=baseball",
+                    "title": "washington d.c."
+                },
+                {
+                    "count": 209,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=location!:new+york&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=location:new+york&fo=json&q=baseball",
+                    "title": "new york"
+                },
+                {
+                    "count": 129,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=location!:district+of+columbia&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=location:district+of+columbia&fo=json&q=baseball",
+                    "title": "district of columbia"
+                },
+                {
+                    "count": 129,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=location!:washington+%28d.c.%29&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=location:washington+%28d.c.%29&fo=json&q=baseball",
+                    "title": "washington (d.c.)"
+                },
+                {
+                    "count": 120,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=location!:alabama&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=location:alabama&fo=json&q=baseball",
+                    "title": "alabama"
+                },
+                {
+                    "count": 112,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=location!:pennsylvania&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=location:pennsylvania&fo=json&q=baseball",
+                    "title": "pennsylvania"
+                },
+                {
+                    "count": 103,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=location!:birmingham&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=location:birmingham&fo=json&q=baseball",
+                    "title": "birmingham"
+                },
+                {
+                    "count": 100,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=location!:california&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=location:california&fo=json&q=baseball",
+                    "title": "california"
+                },
+                {
+                    "count": 89,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=location!:illinois&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=location:illinois&fo=json&q=baseball",
+                    "title": "illinois"
+                }
+            ],
+            "index": "https://www.loc.gov/photos/index/location/?c=1&fo=json&q=baseball",
+            "title": "Location",
+            "type": "location"
+        },
+        {
+            "filters": [
+                {
+                    "count": 7200,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=partof!:prints+and+photographs+division&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=partof:prints+and+photographs+division&fo=json&q=baseball",
+                    "title": "prints and photographs division"
+                },
+                {
+                    "count": 7145,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=partof!:catalog&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=partof:catalog&fo=json&q=baseball",
+                    "title": "catalog"
+                },
+                {
+                    "count": 2579,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=partof!:american+memory&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=partof:american+memory&fo=json&q=baseball",
+                    "title": "american memory"
+                },
+                {
+                    "count": 2384,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=partof!:bain+collection&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=partof:bain+collection&fo=json&q=baseball",
+                    "title": "bain collection"
+                },
+                {
+                    "count": 2123,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=partof!:baseball+cards&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=partof:baseball+cards&fo=json&q=baseball",
+                    "title": "baseball cards"
+                },
+                {
+                    "count": 2122,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=partof!:baseball+cards,+1887-1914&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=partof:baseball+cards,+1887-1914&fo=json&q=baseball",
+                    "title": "baseball cards, 1887-1914"
+                },
+                {
+                    "count": 2085,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=partof!:lot+13163&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=partof:lot+13163&fo=json&q=baseball",
+                    "title": "lot 13163"
+                },
+                {
+                    "count": 549,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=partof!:harris+%26+ewing+collection&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=partof:harris+%26+ewing+collection&fo=json&q=baseball",
+                    "title": "harris & ewing collection"
+                },
+                {
+                    "count": 330,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=partof!:highsmith+%28carol+m.%29+archive&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=partof:highsmith+%28carol+m.%29+archive&fo=json&q=baseball",
+                    "title": "highsmith (carol m.) archive"
+                },
+                {
+                    "count": 284,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=partof!:national+photo+company+collection&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=partof:national+photo+company+collection&fo=json&q=baseball",
+                    "title": "national photo company collection"
+                }
+            ],
+            "index": "https://www.loc.gov/photos/index/partof/?c=1&fo=json&q=baseball",
+            "title": "Part of",
+            "type": "partof"
+        },
+        {
+            "filters": [
+                {
+                    "count": 2194,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=contributor!:bain+news+service&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=contributor:bain+news+service&fo=json&q=baseball",
+                    "title": "bain news service"
+                },
+                {
+                    "count": 1420,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=contributor!:american+tobacco+company&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=contributor:american+tobacco+company&fo=json&q=baseball",
+                    "title": "american tobacco company"
+                },
+                {
+                    "count": 551,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=contributor!:harris+%26+ewing&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=contributor:harris+%26+ewing&fo=json&q=baseball",
+                    "title": "harris & ewing"
+                },
+                {
+                    "count": 516,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=contributor!:goodwin+%26+co&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=contributor:goodwin+%26+co&fo=json&q=baseball",
+                    "title": "goodwin & co"
+                },
+                {
+                    "count": 330,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=contributor!:highsmith,+carol+m.&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=contributor:highsmith,+carol+m.&fo=json&q=baseball",
+                    "title": "highsmith, carol m."
+                },
+                {
+                    "count": 105,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=contributor!:c.m.+bell+%28firm+:+washington,+d.c.%29&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=contributor:c.m.+bell+%28firm+:+washington,+d.c.%29&fo=json&q=baseball",
+                    "title": "c.m. bell (firm : washington, d.c.)"
+                },
+                {
+                    "count": 60,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=contributor!:gotfryd,+bernard&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=contributor:gotfryd,+bernard&fo=json&q=baseball",
+                    "title": "gotfryd, bernard"
+                },
+                {
+                    "count": 59,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=contributor!:national+court+reporters+association+%28ncra%29&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=contributor:national+court+reporters+association+%28ncra%29&fo=json&q=baseball",
+                    "title": "national court reporters association (ncra)"
+                },
+                {
+                    "count": 58,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=contributor!:d.+buchner+%26+company&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=contributor:d.+buchner+%26+company&fo=json&q=baseball",
+                    "title": "d. buchner & company"
+                },
+                {
+                    "count": 53,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=contributor!:block,+herbert&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=contributor:block,+herbert&fo=json&q=baseball",
+                    "title": "block, herbert"
+                }
+            ],
+            "index": "https://www.loc.gov/photos/index/contributor/?c=1&fo=json&q=baseball",
+            "title": "Contributor",
+            "type": "contributor"
+        },
+        {
+            "filters": [
+                {
+                    "count": 3034,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=subject!:glass+negatives&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=subject:glass+negatives&fo=json&q=baseball",
+                    "title": "glass negatives"
+                },
+                {
+                    "count": 2188,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=subject!:baseball+cards&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=subject:baseball+cards&fo=json&q=baseball",
+                    "title": "baseball cards"
+                },
+                {
+                    "count": 1796,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=subject!:color&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=subject:color&fo=json&q=baseball",
+                    "title": "color"
+                },
+                {
+                    "count": 1272,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=subject!:united+states&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=subject:united+states&fo=json&q=baseball",
+                    "title": "united states"
+                },
+                {
+                    "count": 1060,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=subject!:relief+prints&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=subject:relief+prints&fo=json&q=baseball",
+                    "title": "relief prints"
+                },
+                {
+                    "count": 999,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=subject!:baseball&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=subject:baseball&fo=json&q=baseball",
+                    "title": "baseball"
+                },
+                {
+                    "count": 992,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=subject!:national+league&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=subject:national+league&fo=json&q=baseball",
+                    "title": "national league"
+                },
+                {
+                    "count": 740,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=subject!:baseball+players&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=subject:baseball+players&fo=json&q=baseball",
+                    "title": "baseball players"
+                },
+                {
+                    "count": 587,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=subject!:photographic+prints&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=subject:photographic+prints&fo=json&q=baseball",
+                    "title": "photographic prints"
+                },
+                {
+                    "count": 575,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=subject!:pitcher&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=subject:pitcher&fo=json&q=baseball",
+                    "title": "pitcher"
+                }
+            ],
+            "index": "https://www.loc.gov/photos/index/subject/?c=1&fo=json&q=baseball",
+            "title": "Subject",
+            "type": "subject"
+        },
+        {
+            "filters": [
+                {
+                    "count": 7587,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=language!:english&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=language:english&fo=json&q=baseball",
+                    "title": "english"
+                },
+                {
+                    "count": 7,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=language!:japanese&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=language:japanese&fo=json&q=baseball",
+                    "title": "japanese"
+                },
+                {
+                    "count": 1,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=language!:danish&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=language:danish&fo=json&q=baseball",
+                    "title": "danish"
+                },
+                {
+                    "count": 1,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=language!:hebrew&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=language:hebrew&fo=json&q=baseball",
+                    "title": "hebrew"
+                },
+                {
+                    "count": 1,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=language!:multiple+languages&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=language:multiple+languages&fo=json&q=baseball",
+                    "title": "multiple languages"
+                },
+                {
+                    "count": 1,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=language!:no+linguistic+content&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=language:no+linguistic+content&fo=json&q=baseball",
+                    "title": "no linguistic content"
+                },
+                {
+                    "count": 1,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=language!:not+applicable&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=language:not+applicable&fo=json&q=baseball",
+                    "title": "not applicable"
+                },
+                {
+                    "count": 1,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=language!:spanish&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=language:spanish&fo=json&q=baseball",
+                    "title": "spanish"
+                },
+                {
+                    "count": 1,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=language!:swedish&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=language:swedish&fo=json&q=baseball",
+                    "title": "swedish"
+                }
+            ],
+            "title": "Language",
+            "type": "language"
+        },
+        {
+            "filters": [
+                {
+                    "count": 7022,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=access-restricted!:false&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=access-restricted:false&fo=json&q=baseball",
+                    "title": "false"
+                },
+                {
+                    "count": 575,
+                    "not": "https://www.loc.gov/photos/?c=1&fa=access-restricted!:true&fo=json&q=baseball",
+                    "off": null,
+                    "on": "https://www.loc.gov/photos/?c=1&fa=access-restricted:true&fo=json&q=baseball",
+                    "title": "true"
+                }
+            ],
+            "title": "Access Condition",
+            "type": "access-restricted"
+        }
+    ],
+    "featured_items": [
+        {
+            "image": "/static/collections/cartoon-drawings/images/featured-nobel.jpg",
+            "title": "\"I won the Nobel Prize for literature. What was your crime?\" Bill Mauldin, 1958.",
+            "url": "/item/acd1999001613/PP/"
+        },
+        {
+            "image": "/static/collections/groups-of-images/images/featured-naacp.jpg",
+            "title": "NAACP photographs of civil rights marches, demonstrations, and lobbying activities to promote civil rights legislation at the national and local levels",
+            "url": "/item/95516562/"
+        },
+        {
+            "image": "/static/collections/historic-american-buildings-landscapes-and-engineering-records/images/featured-shrewsbury.jpg",
+            "title": "Captain Charles L. Shrewsbury House, Madison, Indiana. Jack Boucher, 1971.",
+            "url": "/item/in0131/"
+        },
+        {
+            "image": "/static/collections/tissandier/images/featured-paris.jpg",
+            "title": "Panorama de Paris, 1878",
+            "url": "/item/2002716354/"
+        },
+        {
+            "image": "/static/collections/genthe/images/featured-quake.jpg",
+            "title": "San Francisco earthquake and fire. Arnold Genthe, 1906.",
+            "url": "/item/agc1996000202/PP/"
+        },
+        {
+            "image": "/static/collections/world-war-i-posters/images/featured-emprunt.jpg",
+            "title": "2me Emprunt de la Defense Nationale . Alcide Robaudi, 1916.",
+            "url": "/item/99613513/"
+        },
+        {
+            "image": "/static/collections/women-of-protest/images/mnwp000272.jpg",
+            "title": "Frances Pepper and Elizabeth Smith working in the offices of The Suffragist, July 1916.",
+            "url": "/item/mnwp000272"
+        },
+        {
+            "image": "/static/collections/fine-prints/images/featured-steelworks.jpg",
+            "title": "Edgar Thomson’s Steel Works. Joseph Pennell, 1909",
+            "url": "/item/97517370/"
+        },
+        {
+            "image": "/static/collections/dolly-parton-and-the-roots-of-country-music/images/featured-dolly4.jpg",
+            "title": "Dolly Parton as Uncle Sam",
+            "url": "/item/ihas.200003676/"
+        },
+        {
+            "image": "/static/collections/fsa-owi-color-photographs/images/featured-statefair.jpg",
+            "title": "At the Vermont state fair, Rutland. Jack Delano, 1941",
+            "url": "/item/fsa1992000064/PP/"
+        },
+        {
+            "image": "/static/collections/henry-reed-fiddle-tunes/images/featured-jabbour-neal.jpg",
+            "title": "Alan Jabbour interviewing Henry Reed's son Neal at his home in Glen Lyn, Virginia, November 29, 1975.",
+            "url": "/item/afcreedp.03/"
+        },
+        {
+            "image": "/static/collections/quilts-and-quilt-making-in-america-from-1978-to-1996/images/br119r.jpg",
+            "title": "Quilt #1 (strip)",
+            "url": "/item/qlt000300"
+        },
+        {
+            "image": "/static/collections/ansel-adams-manzanar/images/featured-baseball-game.jpg",
+            "title": "Baseball game",
+            "url": "/item/2002695992"
+        },
+        {
+            "image": "/static/collections/quilts-and-quilt-making-in-america-from-1978-to-1996/images/br095r.jpg",
+            "title": "Star quilt",
+            "url": "/item/qlt000133"
+        },
+        {
+            "image": "/static/collections/detroit-publishing-company/images/featured-electric-tower.jpg",
+            "title": "Electric Tower at night, 1903",
+            "url": "/item/det1994009345/PP/"
+        },
+        {
+            "image": "/static/collections/van-vechten/images/featured-dali.jpg",
+            "title": "Salvador Dali, 1934",
+            "url": "/resource/cph.3c33965"
+        },
+        {
+            "image": "/static/collections/documentary-drawings/images/featured-family.jpg",
+            "title": "Family group. John Rubens Smith, 19809-1849",
+            "url": "/item/2011645486/"
+        },
+        {
+            "image": "/static/collections/jazz-photography-of-william-p-gottlieb/images/ledbelly.jpg",
+            "title": "[Portrait of Leadbelly, National Press Club, Washington, D.C., between 1938 and 1948]",
+            "url": "/item/gottlieb.13551/"
+        },
+        {
+            "image": "/static/collections/historic-american-buildings-landscapes-and-engineering-records/images/featured-windmill.jpg",
+            "title": "Beebe Windmill, Bridgehampton, New York. Jet Lowe, 1978.",
+            "url": "/item/ny1231/"
+        },
+        {
+            "image": "/static/collections/artists-posters/images/featured-donovan.jpg",
+            "title": "Donovan. Bonnie MacLean, 1967.",
+            "url": "/item/97504942/"
+        },
+        {
+            "image": "/static/collections/working-in-paterson/images/mcc01812r.jpg",
+            "title": "Altar boy with cross and men with banners at the head of the procession",
+            "url": "/item/afcwip001605"
+        },
+        {
+            "image": "/static/collections/g-eric-and-edith-matson-photographs/images/featured-sheikh.jpg",
+            "title": "Sheikh Sultan el-Atrash, leader of Druse revolt. American Colony Photo Dept., ca. 1926.",
+            "url": "/item/mpc2004002109/PP/"
+        },
+        {
+            "image": "/static/collections/architecture-design-and-engineering-drawings/images/featured-theatre.jpg",
+            "title": "Garrick Theatre (Schiller Theatre) and Wood's Theatre, Chicago, Illinois",
+            "url": "/item/2005676663/"
+        },
+        {
+            "image": "/static/collections/detroit-publishing-company/images/featured-architecture.jpg",
+            "title": "Trinity Church, Boston, 1901",
+            "url": "/item/det1994000154/PP/"
+        }
+    ],
+    "form_facets": {},
+    "image_url": [
+        "/static/images/original-format/photo-print-drawing.png"
+    ],
+    "next": {
+        "active": false,
+        "api": "/photos/?fa=partof:Digital+Collections",
+        "disable_navigation": true,
+        "link": "https://www.loc.gov/photos/collections/",
+        "pagination": "2 of 2",
+        "show_featured": true,
+        "slug": "collections",
+        "style": "gallery",
+        "title": "Collections with Photos, Prints, Drawings",
+        "url": "https://www.loc.gov/photos/collections/?st=gallery"
+    },
+    "next_sibling": {
+        "active": false,
+        "api": "/photos/?fa=partof:Digital+Collections",
+        "disable_navigation": true,
+        "link": "https://www.loc.gov/photos/collections/",
+        "pagination": "2 of 2",
+        "show_featured": true,
+        "slug": "collections",
+        "style": "gallery",
+        "title": "Collections with Photos, Prints, Drawings",
+        "url": "https://www.loc.gov/photos/collections/?st=gallery"
+    },
+    "options": {
+        "access_group": [
+            ""
+        ],
+        "access_group_raw": "",
+        "all": null,
+        "api_version": "1",
+        "app_context": null,
+        "application_version": "$Revision$",
+        "attribute": null,
+        "attribute!": null,
+        "attribute_map": null,
+        "cache_tags": [
+            "cph",
+            "catalog",
+            "miscellaneous-items-high-demand",
+            "main-catalog"
+        ],
+        "callback": null,
+        "clip": null,
+        "clip_image_width": null,
+        "clip_rotation": null,
+        "content_filter": null,
+        "content_replacement": "",
+        "count": 1,
+        "dates": null,
+        "delimiter": null,
+        "digital_id": null,
+        "display_level": null,
+        "distance": null,
+        "downloadOption": null,
+        "duration": 1.5390269756317139,
+        "embed": [],
+        "embed!": [],
+        "excludeTerms": null,
+        "facetLimits": "",
+        "facetPrefix": null,
+        "facet_count": null,
+        "facet_style": null,
+        "field": null,
+        "format": "json",
+        "host": "www.loc.gov",
+        "ical": false,
+        "id": null,
+        "iiif": false,
+        "index": null,
+        "inputEncoding": "UTF-8",
+        "is_portal": true,
+        "item": null,
+        "items": null,
+        "keys": null,
+        "language": null,
+        "latlong": null,
+        "method": "GET",
+        "newSearch": null,
+        "new_clip_url": false,
+        "onsite": false,
+        "operator": null,
+        "outputEncoding": "UTF-8",
+        "page_has_campaign": true,
+        "path_info": "/photos/",
+        "port": "443",
+        "proxypath": null,
+        "query_string": "c=1&fo=json&q=baseball",
+        "redirect_proxy": false,
+        "redirect_to_item": null,
+        "referer": "http://127.0.0.1:5500/",
+        "region": "",
+        "release_id": 123456789,
+        "request_params": {
+            "c": [
+                "1"
+            ],
+            "fo": [
+                "json"
+            ],
+            "q": [
+                "baseball"
+            ]
+        },
+        "request_url": "https://www.loc.gov/photos/?c=1&fo=json&q=baseball",
+        "resource": "",
+        "resource_sequence": null,
+        "scheme": "https",
+        "searchIn": "original-format:photo, print, drawing",
+        "searchTerms": "baseball",
+        "segments": null,
+        "site_id": null,
+        "site_type": "photos",
+        "solrQuery": "",
+        "sortBy": null,
+        "sortOrder": null,
+        "startPage": null,
+        "style": null,
+        "suggested": null,
+        "target": null,
+        "template": "search/base",
+        "timestamp": 1673989047.58555,
+        "unionFacets": "",
+        "webcast_permalink": null
+    },
+    "pages": [
+        {
+            "active": true,
+            "children": [
+                {
+                    "active": true,
+                    "link": "https://www.loc.gov/photos/",
+                    "pagination": "1 of 1",
+                    "results": [
+                        {
+                            "access_restricted": true,
+                            "aka": [
+                                "https://www.loc.gov/pictures/item/2015648896/",
+                                "http://www.loc.gov/item/2015648896/",
+                                "http://www.loc.gov/pictures/item/2015648896/",
+                                "https://www.loc.gov/pictures/collection/cph/item/2015648896/",
+                                "http://www.loc.gov/pictures/collection/cph/item/2015648896/",
+                                "http://www.loc.gov/resource/ppmsca.39845/",
+                                "http://hdl.loc.gov/loc.pnp/ppmsca.39845",
+                                "http://lccn.loc.gov/2015648896"
+                            ],
+                            "campaigns": [],
+                            "contributor": [
+                                "office of charles and ray eames",
+                                "work of charles and ray eames (library of congress)"
+                            ],
+                            "date": "1964",
+                            "dates": [
+                                "1964-01-01T00:00:00Z"
+                            ],
+                            "description": [
+                                "1 photograph : Kodachrome color transparency ; film width 35 mm (slide format) | Photograph showing a baseball, likely for use in the IBM multiscreen presentation at the 1964 New York World's Fair."
+                            ],
+                            "digitized": true,
+                            "extract_timestamp": "2021-08-27T19:13:42.248Z",
+                            "group": [
+                                "cph",
+                                "catalog",
+                                "miscellaneous-items-high-demand",
+                                "main-catalog"
+                            ],
+                            "hassegments": false,
+                            "id": "http://www.loc.gov/item/2015648896/",
+                            "image_url": [
+                                "https://tile.loc.gov/storage-services/service/pnp/ppmsca/39800/39845_150px.jpg"
+                            ],
+                            "index": 1,
+                            "item": {
+                                "call_number": "LC-E14-NYF067- 023 [item] [P&P]",
+                                "contributor_names": [
+                                    "Work of Charles and Ray Eames (Library of Congress),  "
+                                ],
+                                "contributors": [
+                                    "Office of Charles and Ray Eames, photographer.",
+                                    "Work of Charles and Ray Eames (Library of Congress)"
+                                ],
+                                "control_number": "2015648896",
+                                "created": "2016-04-20T07:22:52Z",
+                                "created_published": "[1964] ([film processed] Mar 64)",
+                                "created_published_date": "[1964]",
+                                "creators": [
+                                    {
+                                        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Office%20of%20Charles%20and%20Ray%20Eames&co=cph",
+                                        "role": "photographer",
+                                        "title": "Office of Charles and Ray Eames"
+                                    },
+                                    {
+                                        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Work%20of%20Charles%20and%20Ray%20Eames%20%28Library%20of%20Congress%29&co=cph",
+                                        "role": "",
+                                        "title": "Work of Charles and Ray Eames (Library of Congress)"
+                                    }
+                                ],
+                                "date": "[1964]",
+                                "digital_id": [
+                                    "ppmsca 39845 //hdl.loc.gov/loc.pnp/ppmsca.39845"
+                                ],
+                                "format": [
+                                    "still image"
+                                ],
+                                "formats": [
+                                    {
+                                        "link": "https://www.loc.gov/pictures/related/?fi=format&q=Slides--Color--1960-1970.&co=cph",
+                                        "title": "Slides--Color--1960-1970."
+                                    }
+                                ],
+                                "genre": [
+                                    "Slides--Color--1960-1970"
+                                ],
+                                "id": "2015648896",
+                                "language": [
+                                    "eng"
+                                ],
+                                "link": "https://www.loc.gov/pictures/item/2015648896/",
+                                "marc": "https://www.loc.gov/pictures/item/2015648896/marc/",
+                                "medium": [
+                                    "1 photograph : Kodachrome color transparency ; film width 35 mm (slide format)"
+                                ],
+                                "medium_brief": "1 photograph :",
+                                "mediums": [
+                                    "1 photograph : Kodachrome color transparency ; film width 35 mm (slide format)"
+                                ],
+                                "modified": "2016-04-20T07:22:52Z",
+                                "notes": [
+                                    "Title devised by Library staff.",
+                                    "Date from stamp on slide.",
+                                    "Slide from the Eames Office IBM New York Fair (\"NYF\") slide series.",
+                                    "Forms part of: \"The Work of Charles and Ray Eames.\"",
+                                    "Gift; Charles and Ray Eames; 1989; (DLC/PP-1989:150)"
+                                ],
+                                "other_control_numbers": [
+                                    "18739615"
+                                ],
+                                "part_of": "Office of Charles and Ray Eames. Eames Collection (Library of Congress)",
+                                "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+                                "reproduction_number": "LC-DIG-ppmsca-39845 (digital file from original slide)",
+                                "resource_links": [
+                                    "//hdl.loc.gov/loc.pnp/ppmsca.39845"
+                                ],
+                                "rights_advisory": "Publication may be restricted. For information see \"The Work of Charles and Ray Eames,\" https://www.loc.gov/rr/print/res/069_eame.html",
+                                "rights_information": "Publication may be restricted. For information see \"The Work of Charles and Ray Eames,\" https://www.loc.gov/rr/print/res/069_eame.html",
+                                "service_low": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/39800/39845_150px.jpg",
+                                "service_medium": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/39800/39845r.jpg",
+                                "sort_date": "1964",
+                                "source_created": "2015-08-11T00:00:00Z",
+                                "source_modified": "2015-08-12T15:35:56Z",
+                                "subject_headings": [
+                                    "Baseballs--1960-1970."
+                                ],
+                                "subjects": [
+                                    "Baseballs--1960-1970"
+                                ],
+                                "summary": "Photograph showing a baseball, likely for use in the IBM multiscreen presentation at the 1964 New York World's Fair.",
+                                "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/39800/39845_150px.jpg",
+                                "title": "[Baseball]"
+                            },
+                            "language": [
+                                "english"
+                            ],
+                            "mime_type": [
+                                "image/gif",
+                                "image/jpg",
+                                "image/tif",
+                                "image/jpeg"
+                            ],
+                            "number": [
+                                "http://www.loc.gov/item/18739615"
+                            ],
+                            "number_former_id": [
+                                "http://www.loc.gov/item/18739615"
+                            ],
+                            "online_format": [
+                                "image"
+                            ],
+                            "original_format": [
+                                "photo, print, drawing"
+                            ],
+                            "other_title": [],
+                            "partof": [
+                                "catalog",
+                                "prints and photographs division"
+                            ],
+                            "related": {
+                                "neighbors": "https://www.loc.gov/pictures/related/?&co=cph&pk=2015648896&st=gallery&sb=call_number#focus"
+                            },
+                            "reproductions": "<p>If an image is displaying, you can download it yourself. (Some images \ndisplay only as thumbnails outside the Library of Congress because of rights \nconsiderations, but you have access to larger size images on site.)\n</p>\n\n<p>  \nAlternatively, you can purchase copies of various types through Library \nof Congress Duplication Services</a>.\n</p>\n\n<p> \n<ol>\n<p>\n<li><strong>If a digital image is displaying:</strong> The qualities of the digital image \npartially depend on whether it was made from the original or an \nintermediate such as a copy negative or transparency. If the Reproduction \nNumber field above includes a reproduction number that starts with \nLC-DIG..., then there is a digital image that was made directly \nfrom the original and is of sufficient resolution for most publication\n purposes.\n</li> \n</p>\n\n<li><strong>If there is information listed in the Reproduction Number field above:</strong> \nYou can use the reproduction number to purchase a copy from Duplication \nServices.  It will be made from the source listed in the parentheses after\n the number.  \n<p> \nIf only black-and-white (&quot;b&w&quot;) sources are listed and you \n desire a copy showing color or tint (assuming the original has any), \n you can generally purchase a quality copy of the original in color by \n citing the Call Number listed above and including the catalog record \n (&quot;About This Item&quot;) with your request.\n </p>\n</li>\n\n<li><strong>If there is no information listed in the Reproduction Number field \nabove:</strong> You can generally purchase a quality copy through \nDuplication Services. Cite the Call Number listed above and include the catalog record (&quot;About This Item&quot;) with \n your request.\n</li>\n</ol>\n</p>\n\n<p> \nPrice lists, contact information, and order forms are available on the\n <a href=\"//www.loc.gov/duplicationservices/\">Duplication Services Web site</a>.  \n</p>\n\n\n\n",
+                            "resources": [
+                                {
+                                    "caption": "digital file from original slide",
+                                    "files": 1,
+                                    "image": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/39800/39845_150px.jpg",
+                                    "url": "https://www.loc.gov/resource/ppmsca.39845/"
+                                }
+                            ],
+                            "shelf_id": "LC-E14-NYF067- 023 [item] [P&P]",
+                            "site": [
+                                "pictures",
+                                "catalog"
+                            ],
+                            "subject": [
+                                "slides",
+                                "color",
+                                "baseballs"
+                            ],
+                            "timestamp": "2021-08-28T13:36:34.918Z",
+                            "title": "[Baseball]",
+                            "unrestricted": true,
+                            "url": "https://www.loc.gov/item/2015648896/"
+                        }
+                    ],
+                    "slug": "",
+                    "title": "Search Photos, Prints, Drawings",
+                    "url": "https://www.loc.gov/photos/"
+                }
+            ],
+            "link": "https://www.loc.gov/photos/",
+            "pagination": "1 of 2",
+            "slug": "",
+            "title": "Search Photos, Prints, Drawings",
+            "url": "https://www.loc.gov/photos/"
+        },
+        {
+            "active": false,
+            "api": "/photos/?fa=partof:Digital+Collections",
+            "disable_navigation": true,
+            "link": "https://www.loc.gov/photos/collections/",
+            "pagination": "2 of 2",
+            "show_featured": true,
+            "slug": "collections",
+            "style": "gallery",
+            "title": "Collections with Photos, Prints, Drawings",
+            "url": "https://www.loc.gov/photos/collections/?st=gallery"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "first": null,
+        "from": 1,
+        "last": "https://www.loc.gov/photos/?c=1&fo=json&q=baseball&sp=4",
+        "next": "https://www.loc.gov/photos/?c=1&fo=json&q=baseball&sp=2",
+        "of": 7601,
+        "page_list": [
+            {
+                "number": 1,
+                "url": null
+            },
+            {
+                "number": 2,
+                "url": "https://www.loc.gov/photos/?c=1&fo=json&q=baseball&sp=2"
+            },
+            {
+                "number": 3,
+                "url": "https://www.loc.gov/photos/?c=1&fo=json&q=baseball&sp=3"
+            },
+            {
+                "number": "...",
+                "url": "https://www.loc.gov/photos/?c=1&fo=json&q=baseball&sp=4"
+            }
+        ],
+        "perpage": 1,
+        "perpage_options": [
+            25,
+            50,
+            100,
+            150
+        ],
+        "previous": null,
+        "results": "1 - 1",
+        "to": 1,
+        "total": 7601
+    },
+    "portal": true,
+    "previous": null,
+    "previous_sibling": null,
+    "results": [
+        {
+            "access_restricted": true,
+            "aka": [
+                "https://www.loc.gov/pictures/item/2015648896/",
+                "http://www.loc.gov/item/2015648896/",
+                "http://www.loc.gov/pictures/item/2015648896/",
+                "https://www.loc.gov/pictures/collection/cph/item/2015648896/",
+                "http://www.loc.gov/pictures/collection/cph/item/2015648896/",
+                "http://www.loc.gov/resource/ppmsca.39845/",
+                "http://hdl.loc.gov/loc.pnp/ppmsca.39845",
+                "http://lccn.loc.gov/2015648896"
+            ],
+            "campaigns": [],
+            "contributor": [
+                "office of charles and ray eames",
+                "work of charles and ray eames (library of congress)"
+            ],
+            "date": "1964",
+            "dates": [
+                "1964-01-01T00:00:00Z"
+            ],
+            "description": [
+                "1 photograph : Kodachrome color transparency ; film width 35 mm (slide format) | Photograph showing a baseball, likely for use in the IBM multiscreen presentation at the 1964 New York World's Fair."
+            ],
+            "digitized": true,
+            "extract_timestamp": "2021-08-27T19:13:42.248Z",
+            "group": [
+                "cph",
+                "catalog",
+                "miscellaneous-items-high-demand",
+                "main-catalog"
+            ],
+            "hassegments": false,
+            "id": "http://www.loc.gov/item/2015648896/",
+            "image_url": [
+                "https://tile.loc.gov/storage-services/service/pnp/ppmsca/39800/39845_150px.jpg"
+            ],
+            "index": 1,
+            "item": {
+                "call_number": "LC-E14-NYF067- 023 [item] [P&P]",
+                "contributor_names": [
+                    "Work of Charles and Ray Eames (Library of Congress),  "
+                ],
+                "contributors": [
+                    "Office of Charles and Ray Eames, photographer.",
+                    "Work of Charles and Ray Eames (Library of Congress)"
+                ],
+                "control_number": "2015648896",
+                "created": "2016-04-20T07:22:52Z",
+                "created_published": "[1964] ([film processed] Mar 64)",
+                "created_published_date": "[1964]",
+                "creators": [
+                    {
+                        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Office%20of%20Charles%20and%20Ray%20Eames&co=cph",
+                        "role": "photographer",
+                        "title": "Office of Charles and Ray Eames"
+                    },
+                    {
+                        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Work%20of%20Charles%20and%20Ray%20Eames%20%28Library%20of%20Congress%29&co=cph",
+                        "role": "",
+                        "title": "Work of Charles and Ray Eames (Library of Congress)"
+                    }
+                ],
+                "date": "[1964]",
+                "digital_id": [
+                    "ppmsca 39845 //hdl.loc.gov/loc.pnp/ppmsca.39845"
+                ],
+                "format": [
+                    "still image"
+                ],
+                "formats": [
+                    {
+                        "link": "https://www.loc.gov/pictures/related/?fi=format&q=Slides--Color--1960-1970.&co=cph",
+                        "title": "Slides--Color--1960-1970."
+                    }
+                ],
+                "genre": [
+                    "Slides--Color--1960-1970"
+                ],
+                "id": "2015648896",
+                "language": [
+                    "eng"
+                ],
+                "link": "https://www.loc.gov/pictures/item/2015648896/",
+                "marc": "https://www.loc.gov/pictures/item/2015648896/marc/",
+                "medium": [
+                    "1 photograph : Kodachrome color transparency ; film width 35 mm (slide format)"
+                ],
+                "medium_brief": "1 photograph :",
+                "mediums": [
+                    "1 photograph : Kodachrome color transparency ; film width 35 mm (slide format)"
+                ],
+                "modified": "2016-04-20T07:22:52Z",
+                "notes": [
+                    "Title devised by Library staff.",
+                    "Date from stamp on slide.",
+                    "Slide from the Eames Office IBM New York Fair (\"NYF\") slide series.",
+                    "Forms part of: \"The Work of Charles and Ray Eames.\"",
+                    "Gift; Charles and Ray Eames; 1989; (DLC/PP-1989:150)"
+                ],
+                "other_control_numbers": [
+                    "18739615"
+                ],
+                "part_of": "Office of Charles and Ray Eames. Eames Collection (Library of Congress)",
+                "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+                "reproduction_number": "LC-DIG-ppmsca-39845 (digital file from original slide)",
+                "resource_links": [
+                    "//hdl.loc.gov/loc.pnp/ppmsca.39845"
+                ],
+                "rights_advisory": "Publication may be restricted. For information see \"The Work of Charles and Ray Eames,\" https://www.loc.gov/rr/print/res/069_eame.html",
+                "rights_information": "Publication may be restricted. For information see \"The Work of Charles and Ray Eames,\" https://www.loc.gov/rr/print/res/069_eame.html",
+                "service_low": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/39800/39845_150px.jpg",
+                "service_medium": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/39800/39845r.jpg",
+                "sort_date": "1964",
+                "source_created": "2015-08-11T00:00:00Z",
+                "source_modified": "2015-08-12T15:35:56Z",
+                "subject_headings": [
+                    "Baseballs--1960-1970."
+                ],
+                "subjects": [
+                    "Baseballs--1960-1970"
+                ],
+                "summary": "Photograph showing a baseball, likely for use in the IBM multiscreen presentation at the 1964 New York World's Fair.",
+                "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/39800/39845_150px.jpg",
+                "title": "[Baseball]"
+            },
+            "language": [
+                "english"
+            ],
+            "mime_type": [
+                "image/gif",
+                "image/jpg",
+                "image/tif",
+                "image/jpeg"
+            ],
+            "number": [
+                "http://www.loc.gov/item/18739615"
+            ],
+            "number_former_id": [
+                "http://www.loc.gov/item/18739615"
+            ],
+            "online_format": [
+                "image"
+            ],
+            "original_format": [
+                "photo, print, drawing"
+            ],
+            "other_title": [],
+            "partof": [
+                "catalog",
+                "prints and photographs division"
+            ],
+            "related": {
+                "neighbors": "https://www.loc.gov/pictures/related/?&co=cph&pk=2015648896&st=gallery&sb=call_number#focus"
+            },
+            "reproductions": "<p>If an image is displaying, you can download it yourself. (Some images \ndisplay only as thumbnails outside the Library of Congress because of rights \nconsiderations, but you have access to larger size images on site.)\n</p>\n\n<p>  \nAlternatively, you can purchase copies of various types through Library \nof Congress Duplication Services</a>.\n</p>\n\n<p> \n<ol>\n<p>\n<li><strong>If a digital image is displaying:</strong> The qualities of the digital image \npartially depend on whether it was made from the original or an \nintermediate such as a copy negative or transparency. If the Reproduction \nNumber field above includes a reproduction number that starts with \nLC-DIG..., then there is a digital image that was made directly \nfrom the original and is of sufficient resolution for most publication\n purposes.\n</li> \n</p>\n\n<li><strong>If there is information listed in the Reproduction Number field above:</strong> \nYou can use the reproduction number to purchase a copy from Duplication \nServices.  It will be made from the source listed in the parentheses after\n the number.  \n<p> \nIf only black-and-white (&quot;b&w&quot;) sources are listed and you \n desire a copy showing color or tint (assuming the original has any), \n you can generally purchase a quality copy of the original in color by \n citing the Call Number listed above and including the catalog record \n (&quot;About This Item&quot;) with your request.\n </p>\n</li>\n\n<li><strong>If there is no information listed in the Reproduction Number field \nabove:</strong> You can generally purchase a quality copy through \nDuplication Services. Cite the Call Number listed above and include the catalog record (&quot;About This Item&quot;) with \n your request.\n</li>\n</ol>\n</p>\n\n<p> \nPrice lists, contact information, and order forms are available on the\n <a href=\"//www.loc.gov/duplicationservices/\">Duplication Services Web site</a>.  \n</p>\n\n\n\n",
+            "resources": [
+                {
+                    "caption": "digital file from original slide",
+                    "files": 1,
+                    "image": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/39800/39845_150px.jpg",
+                    "url": "https://www.loc.gov/resource/ppmsca.39845/"
+                }
+            ],
+            "shelf_id": "LC-E14-NYF067- 023 [item] [P&P]",
+            "site": [
+                "pictures",
+                "catalog"
+            ],
+            "subject": [
+                "slides",
+                "color",
+                "baseballs"
+            ],
+            "timestamp": "2021-08-28T13:36:34.918Z",
+            "title": "[Baseball]",
+            "unrestricted": true,
+            "url": "https://www.loc.gov/item/2015648896/"
+        }
+    ],
+    "search": {
+        "dates": null,
+        "facet_limits": "",
+        "field": null,
+        "hits": 7601,
+        "in": "original-format:photo, print, drawing",
+        "query": "baseball",
+        "recommended": 0,
+        "site": {},
+        "sort_by": null,
+        "type": "search",
+        "union_facets": "",
+        "url": "https://www.loc.gov/photos/?c=1&fo=json&q=baseball"
+    },
+    "site_type": "photos",
+    "timestamp": 1673989049124,
+    "title": "Photos, Prints, Drawings",
+    "type": "context-portal",
+    "views": {
+        "brief": "https://www.loc.gov/photos/?c=1&fo=json&q=baseball&st=brief",
+        "current": "list",
+        "gallery": "https://www.loc.gov/photos/?c=1&fo=json&q=baseball&st=gallery",
+        "grid": "https://www.loc.gov/photos/?c=1&fo=json&q=baseball&st=grid",
+        "list": "https://www.loc.gov/photos/?c=1&fo=json&q=baseball",
+        "slideshow": "https://www.loc.gov/photos/?c=1&fo=json&q=baseball&st=slideshow"
+    }
+}
