@@ -20,12 +20,12 @@ function handleFormSubmit(event) {
     window.alert("Please enter a search query! :)")
 
   } else if (format) {
-  redirectUrl = "./search-results.html?q=" + search + "&format=" + format;
+  redirectUrl = "./search-results.html?q=" + search + "&format=" + format + "&c=25";
   document.location.replace(redirectUrl);
   // console.log(format) Successful
   getData(search, format)
 }else {
-  redirectUrl = "./search-results.html?q=" + search + "&format=";
+  redirectUrl = "./search-results.html?q=" + search + "&format=" + "&c=25";
   document.location.replace(redirectUrl);
   getData(search, "")
   // console.log(format) Successful
@@ -34,9 +34,9 @@ function handleFormSubmit(event) {
 
 var getData = function (search, format){
   if (format) {
-    var apiUrl = 'https://www.loc.gov/' + format + '/?q=' + search + '&fo=json&c=1';
+    var apiUrl = 'https://www.loc.gov/' + format + '/?q=' + search + '&c=25&fo=json';
   } else {
-  var apiUrl = 'https://www.loc.gov/search/?q=' + search + '&fo=json&c=1';
+  var apiUrl = 'https://www.loc.gov/search/?q=' + search + '&c=25&fo=json';
 }
 // console.log(apiUrl) Successful
 
