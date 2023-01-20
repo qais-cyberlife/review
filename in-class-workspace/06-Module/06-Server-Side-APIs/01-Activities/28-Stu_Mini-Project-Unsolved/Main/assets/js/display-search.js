@@ -5,13 +5,8 @@ var formatInputEl = $('#format-input');
 var searchQuery = $('#result-text');
 var resultsEl = $('#result-content');
 
-console.log(searchInputEl.val())
 var getQueryName = function () {
-
-  // if (!searchQuery) {
-
-
-    var queryString = document.location.search;
+  var queryString = document.location.search;
   var searchParamsArr = queryString.split('&');
 
   var queryName = searchParamsArr[0].split('=').pop();
@@ -22,10 +17,7 @@ var getQueryName = function () {
   console.log(queryName);
   console.log(format);
   console.log(queryNum)
-  // } else {
-    queryName = searchInputEl.val();
-    format = formatInputEl.val(); 
-  // }
+ 
 
     getData(queryName, format, queryNum);
   
